@@ -25,7 +25,9 @@ namespace repositorio_demo
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("boton 2");
         }
+
+
     }
 }
