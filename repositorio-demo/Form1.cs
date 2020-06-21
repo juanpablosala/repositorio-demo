@@ -22,5 +22,10 @@ namespace repositorio_demo
             int num = 5;
             MessageBox.Show("todo ok por ahora" + num);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
