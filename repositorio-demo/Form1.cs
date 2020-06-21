@@ -19,7 +19,7 @@ namespace repositorio_demo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num = 5;
+            int num = 55;
             MessageBox.Show("todo ok por ahora" + num);
         }
 
